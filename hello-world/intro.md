@@ -1,1 +1,1 @@
-Welcome to your first Katacoda Scenario!
+This is the Katacoda demo
